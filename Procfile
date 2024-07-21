@@ -1,1 +1,1 @@
-web: guniconr 'Library.wsgi'
+web: gunicorn 'Library.wsgi'
