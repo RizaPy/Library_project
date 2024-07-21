@@ -11,6 +11,7 @@ dj-rest-auth = "*"
 django-allauth = "*"
 gunicorn = "*"
 django = "==4"
+whitenoise = "*"
 
 [dev-packages]
 
