@@ -9,6 +9,8 @@ drf-yasg = "*"
 drf-rest-auth = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+gunicorn = "*"
+django = "==4"
 
 [dev-packages]
 
