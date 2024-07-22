@@ -12,6 +12,7 @@ django-allauth = "*"
 gunicorn = "*"
 django = "==4"
 whitenoise = "*"
+pyjwt = "*"
 
 [dev-packages]
 
